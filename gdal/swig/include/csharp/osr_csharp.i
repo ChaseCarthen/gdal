@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: osr_csharp.i 13679 2008-02-02 23:48:53Z tamas $
  *
  * Name:     osr_csharp.i
  * Project:  GDAL CSharp Interface

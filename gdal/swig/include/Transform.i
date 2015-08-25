@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: Transform.i 10967 2007-03-15 20:04:37Z warmerdam $
  *
  * Project:  GDAL SWIG Interfaces.
  * Purpose:  GDAL transformer related declarations.

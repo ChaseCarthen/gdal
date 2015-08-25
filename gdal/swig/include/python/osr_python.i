@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: osr_python.i 27384 2014-05-24 12:28:12Z rouault $
  *
  * python specific code for ogr bindings.
  */

@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: cpl_exceptions.i 29436 2015-06-30 09:22:39Z ajolma $
  *
  * Code for Optional Exception Handling through UseExceptions(),
  * DontUseExceptions()

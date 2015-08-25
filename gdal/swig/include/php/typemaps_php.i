@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: typemaps_php.i 8582 2005-10-11 14:11:43Z kruland $
  *
  * Name:     typemaps_php.i
  * Project:  GDAL PHP Interface

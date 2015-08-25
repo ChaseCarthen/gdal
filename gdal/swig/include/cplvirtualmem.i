@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: cplvirtualmem.i 26832 2014-01-15 12:46:08Z rouault $
  *
  * Name:     cplvirtualmem.i
  * Project:  GDAL Python Interface

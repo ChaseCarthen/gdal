@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: gdal.i 29436 2015-06-30 09:22:39Z ajolma $
  *
  * Name:     gdal.i
  * Project:  GDAL Python Interface
@@ -804,10 +804,6 @@ GDALDatasetShadow* OpenEx( char const* utf8_path, unsigned int nOpenFlags = 0,
                            char** allowed_drivers = NULL, char** open_options = NULL,
                            char** sibling_files = NULL ) {
   CPLErrorReset();
-#ifdef SWIGPYTHON
-  if( GetUseExceptions() )
-      nOpenFlags |= GDAL_OF_VERBOSE_ERROR;
-#endif
   GDALDatasetShadow *ds = GDALOpenEx( utf8_path, nOpenFlags, allowed_drivers,
                                       open_options, sibling_files );
   if( ds != NULL && CPLGetLastErrorType() == CE_Failure )

@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: MajorObject.i 28360 2015-01-27 09:27:05Z rouault $
  *
  * Project:  GDAL SWIG Interfaces.
  * Purpose:  SWIG Definitions for GDALMajorObject.

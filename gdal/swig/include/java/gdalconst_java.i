@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: gdalconst_java.i 21579 2011-01-24 21:57:24Z rouault $
  *
  * Name:     gdalconst_java.i
  * Project:  GDAL SWIG Interface

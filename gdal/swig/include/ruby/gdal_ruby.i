@@ -1,5 +1,5 @@
 /*
- * $Id$
+ * $Id: gdal_ruby.i 28039 2014-11-30 18:24:59Z rouault $
  *
  * ruby specific code for gdal bindings.
  */

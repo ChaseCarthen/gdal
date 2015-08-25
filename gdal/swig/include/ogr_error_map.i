@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: ogr_error_map.i 28809 2015-03-28 17:10:07Z rouault $
  *
  * Project:  GDAL SWIG Interfaces.
  * Purpose:  OGRErr handling typemap.

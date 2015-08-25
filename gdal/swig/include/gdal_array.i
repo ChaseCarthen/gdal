@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: gdal_array.i 29483 2015-07-06 10:48:23Z rouault $
  *
  * Name:     gdal_array.i
  * Project:  GDAL Python Interface

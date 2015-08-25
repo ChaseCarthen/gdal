@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: ogr_csharp_extend.i 13436 2007-12-21 20:46:05Z tamas $
  *
  * Name:     ogr_csharp_extend.i
  * Project:  GDAL CSharp Interface

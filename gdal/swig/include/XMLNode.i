@@ -1,5 +1,5 @@
 /******************************************************************************
- * $Id$
+ * $Id: XMLNode.i 24439 2012-05-17 21:54:16Z rouault $
  *
  * Project:  GDAL SWIG Interface
  * Purpose:  GDAL XML SWIG Interface declarations.
